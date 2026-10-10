@@ -1,0 +1,8 @@
+{
+  "name": "cc-afk",
+  "version": "0.1.0",
+  "description": "/afk: set the 'I'm away, keep working' contract once. The session works unattended, queues decisions in QUESTIONS.md, commits per unit, and stops cleanly.",
+  "author": {
+    "name": "shaswat28"
+  }
+}

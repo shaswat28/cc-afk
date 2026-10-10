@@ -1,0 +1,19 @@
+{
+  "name": "cc-afk",
+  "owner": {
+    "name": "shaswat28"
+  },
+  "metadata": {
+    "description": "Claude Code plugin for unattended (AFK) runs.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "cc-afk",
+      "description": "Set the away-from-keyboard contract once: no blocking questions, one commit per unit, checkpoints, clean stop.",
+      "version": "0.1.0",
+      "author": { "name": "shaswat28" },
+      "source": "."
+    }
+  ]
+}
